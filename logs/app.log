@@ -1,0 +1,148 @@
+2024-12-16T01:40:57.136Z [INFO]: Email server is ready to take messages
+2024-12-16T01:47:15.446Z [INFO]: Email server is ready to take messages
+2024-12-16T08:30:13.167Z [INFO]: Email server is ready to take messages
+2024-12-16T09:04:52.181Z [INFO]: Email server is ready to take messages
+2024-12-16T09:05:04.937Z [INFO]: Email server is ready to take messages
+2024-12-16T09:17:00.460Z [INFO]: Email server is ready to take messages
+2024-12-16T09:18:14.195Z [INFO]: Email server is ready to take messages
+2024-12-16T09:18:36.580Z [INFO]: Email server is ready to take messages
+2024-12-16T09:28:34.513Z [INFO]: Email server is ready to take messages
+2024-12-16T09:45:13.111Z [INFO]: Email server is ready to take messages
+2024-12-16T09:46:35.963Z [INFO]: Email server is ready to take messages
+2024-12-16T09:47:16.675Z [INFO]: Email server is ready to take messages
+2024-12-16T09:50:05.127Z [INFO]: Email server is ready to take messages
+2024-12-16T09:52:44.419Z [INFO]: Email server is ready to take messages
+2024-12-16T09:53:37.692Z [INFO]: Email server is ready to take messages
+2024-12-16T10:01:56.897Z [INFO]: Email server is ready to take messages
+2024-12-16T10:02:11.794Z [INFO]: Email sent to john.harlinson@gmail.com with subject "Verify Your Email" using template "verificationEmail".
+2024-12-16T10:05:13.794Z [INFO]: Email sent to john.harlinson@gmail.com with subject "Welcome to Thot AI!" using template "welcomeEmail".
+2024-12-16T10:53:45.899Z [INFO]: Email sent to thedigitalprofitmakers@gmail.com with subject "Verify Your Email" using template "verificationEmail".
+2024-12-16T10:54:29.643Z [INFO]: Email sent to thedigitalprofitmakers@gmail.com with subject "Welcome to Thot AI!" using template "welcomeEmail".
+2024-12-16T11:01:56.321Z [ERROR]: Error in pauseUser: Cast to ObjectId failed for value ":userId" (type string) at path "_id" for model "UserConfiguration"
+2024-12-16T11:35:54.997Z [INFO]: Email server is ready to take messages
+2024-12-16T11:38:38.169Z [INFO]: Email server is ready to take messages
+2024-12-16T11:45:08.397Z [INFO]: Email server is ready to take messages
+2024-12-16T11:47:53.778Z [INFO]: Email server is ready to take messages
+2024-12-16T11:52:14.785Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Path `createdBy` is required.
+2024-12-16T12:20:05.499Z [INFO]: Email server is ready to take messages
+2024-12-16T12:21:54.259Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Path `createdBy` is required.
+2024-12-16T12:22:55.287Z [INFO]: Email server is ready to take messages
+2024-12-16T12:23:05.509Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Path `createdBy` is required.
+2024-12-16T12:26:41.928Z [INFO]: Email server is ready to take messages
+2024-12-16T12:26:57.302Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Path `createdBy` is required.
+2024-12-16T12:27:55.053Z [INFO]: Email server is ready to take messages
+2024-12-16T12:29:23.124Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Path `createdBy` is required.
+2024-12-16T12:53:02.256Z [INFO]: Email server is ready to take messages
+2024-12-16T12:53:16.515Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Path `createdBy` is required.
+2024-12-16T12:53:40.752Z [INFO]: Email server is ready to take messages
+2024-12-16T12:53:49.579Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Path `createdBy` is required.
+2024-12-16T13:02:26.060Z [INFO]: Email server is ready to take messages
+2024-12-16T13:05:45.582Z [INFO]: Email server is ready to take messages
+2024-12-16T13:15:50.520Z [INFO]: Email server is ready to take messages
+2024-12-16T13:16:36.505Z [INFO]: Email server is ready to take messages
+2024-12-16T13:22:01.818Z [INFO]: Email server is ready to take messages
+2024-12-16T13:22:18.790Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Path `createdBy` is required.
+2024-12-16T13:22:40.828Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Path `createdBy` is required.
+2024-12-16T13:25:39.913Z [INFO]: Email server is ready to take messages
+2024-12-16T13:25:43.188Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Path `createdBy` is required.
+2024-12-16T13:30:02.551Z [INFO]: Email server is ready to take messages
+2024-12-16T13:30:04.785Z [INFO]: Email server is ready to take messages
+2024-12-16T13:30:19.922Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Path `createdBy` is required.
+2024-12-16T13:33:11.191Z [INFO]: Email server is ready to take messages
+2024-12-16T13:33:42.859Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Cast to ObjectId failed for value "guess" (type string) at path "createdBy" because of "BSONError"
+2024-12-16T13:34:24.792Z [INFO]: Email server is ready to take messages
+2024-12-16T13:34:27.371Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Cast to ObjectId failed for value "true" (type boolean) at path "createdBy" because of "BSONError"
+2024-12-16T13:35:31.873Z [INFO]: Email server is ready to take messages
+2024-12-16T13:35:34.096Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Path `createdBy` is required.
+2024-12-16T13:38:09.644Z [INFO]: Email server is ready to take messages
+2024-12-16T13:38:19.399Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Path `createdBy` is required.
+2024-12-16T13:48:17.665Z [ERROR]: Error in requestPasswordReset: UserConfiguration validation failed: createdBy: Path `createdBy` is required.
+2024-12-16T13:52:58.822Z [INFO]: Email server is ready to take messages
+2024-12-16T14:40:48.126Z [INFO]: Email server is ready to take messages
+2024-12-16T14:41:20.384Z [INFO]: Email server is ready to take messages
+2024-12-16T14:41:32.439Z [INFO]: Email server is ready to take messages
+2024-12-16T14:43:05.121Z [INFO]: Email server is ready to take messages
+2024-12-16T14:47:34.073Z [INFO]: Email server is ready to take messages
+2024-12-16T15:08:08.996Z [INFO]: Email sent to john.harlinson@gmail.com with subject "Password Reset Request" using template "passwordReset".
+2024-12-16T15:08:08.997Z [INFO]: Password reset requested for email: john.harlinson@gmail.com
+2024-12-16T15:11:06.889Z [ERROR]: Error sending email to john.harlinson@gmail.com: ENOENT: no such file or directory, open '/Users/johnramos/a/server/templates/passwordResetConfirmation.hbs'
+2024-12-16T15:11:06.889Z [ERROR]: Error in resetPassword: ENOENT: no such file or directory, open '/Users/johnramos/a/server/templates/passwordResetConfirmation.hbs'
+2024-12-16T15:17:21.083Z [INFO]: Email sent to john.harlinson@gmail.com with subject "Password Reset Request" using template "passwordReset".
+2024-12-16T15:17:21.083Z [INFO]: Password reset requested for email: john.harlinson@gmail.com
+2024-12-16T15:18:14.222Z [INFO]: Email sent to john.harlinson@gmail.com with subject "Password Reset Successful" using template "passwordResetConfirmation".
+2024-12-16T15:18:14.222Z [INFO]: Password reset successful for email: john.harlinson@gmail.com
+2024-12-16T15:44:24.811Z [WARN]: Invalid or expired token for email: thedigitalprofitmakers@gmail.com
+2024-12-16T19:14:59.129Z [INFO]: Email server is ready to take messages
+2024-12-16T19:16:52.810Z [INFO]: Email server is ready to take messages
+2024-12-16T19:16:57.924Z [INFO]: Email server is ready to take messages
+2024-12-16T19:17:08.007Z [INFO]: Email server is ready to take messages
+2024-12-16T19:17:15.769Z [INFO]: Email server is ready to take messages
+2024-12-16T19:17:28.041Z [INFO]: Email server is ready to take messages
+2024-12-16T19:17:32.552Z [INFO]: Email server is ready to take messages
+2024-12-16T19:18:36.032Z [INFO]: Email server is ready to take messages
+2024-12-16T19:19:01.257Z [INFO]: Email server is ready to take messages
+2024-12-16T19:20:41.415Z [INFO]: Email server is ready to take messages
+2024-12-17T10:26:47.307Z [INFO]: Email server is ready to take messages
+2024-12-17T10:42:41.393Z [INFO]: Email server is ready to take messages
+2024-12-17T10:53:18.578Z [INFO]: Email server is ready to take messages
+2024-12-17T11:02:33.427Z [INFO]: Email server is ready to take messages
+2024-12-17T13:44:07.944Z [INFO]: Email server is ready to take messages
+2024-12-17T21:36:59.083Z [INFO]: Email server is ready to take messages
+2024-12-17T22:40:52.922Z [INFO]: Email server is ready to take messages
+2024-12-17T22:56:17.332Z [INFO]: Email server is ready to take messages
+2024-12-17T22:56:44.791Z [INFO]: Email server is ready to take messages
+2024-12-17T22:56:48.229Z [INFO]: Email server is ready to take messages
+2024-12-17T22:58:10.517Z [INFO]: Email server is ready to take messages
+2024-12-18T17:47:55.610Z [INFO]: Email server is ready to take messages
+2024-12-18T17:53:39.395Z [INFO]: Email server is ready to take messages
+2024-12-18T17:54:50.695Z [INFO]: Email server is ready to take messages
+2024-12-18T18:25:12.749Z [INFO]: Email server is ready to take messages
+2024-12-18T18:37:51.685Z [INFO]: Email server is ready to take messages
+2024-12-18T18:38:50.468Z [INFO]: Email server is ready to take messages
+2024-12-18T18:43:14.636Z [INFO]: Email sent to john.harlinson@gmail.com with subject "Password Reset Request" using template "passwordReset".
+2024-12-18T18:43:14.637Z [INFO]: Password reset requested for email: john.harlinson@gmail.com
+2024-12-18T18:44:43.928Z [INFO]: Email sent to john.harlinson@gmail.com with subject "Password Reset Successful" using template "passwordResetConfirmation".
+2024-12-18T18:44:43.929Z [INFO]: Password reset successful for email: john.harlinson@gmail.com
+2024-12-18T19:04:31.686Z [INFO]: Email server is ready to take messages
+2024-12-18T19:06:11.822Z [INFO]: Email server is ready to take messages
+2024-12-18T19:08:45.955Z [INFO]: Email server is ready to take messages
+2024-12-18T19:12:25.490Z [INFO]: Email server is ready to take messages
+2024-12-18T19:34:33.270Z [INFO]: Email server is ready to take messages
+2024-12-18T20:01:32.501Z [INFO]: Email server is ready to take messages
+2024-12-18T20:15:06.129Z [INFO]: Email server is ready to take messages
+2024-12-18T20:16:21.433Z [INFO]: Email server is ready to take messages
+2024-12-18T20:17:58.788Z [INFO]: Email server is ready to take messages
+2024-12-18T20:18:50.517Z [INFO]: Email server is ready to take messages
+2024-12-18T20:20:23.181Z [INFO]: Email server is ready to take messages
+2024-12-18T20:20:27.558Z [INFO]: Email server is ready to take messages
+2024-12-18T20:36:20.976Z [INFO]: Email server is ready to take messages
+2024-12-18T20:38:02.216Z [INFO]: Email server is ready to take messages
+2024-12-18T20:40:06.850Z [INFO]: Email server is ready to take messages
+2024-12-18T20:40:40.209Z [INFO]: Email server is ready to take messages
+2024-12-18T20:50:28.071Z [INFO]: Email server is ready to take messages
+2024-12-18T23:16:25.591Z [INFO]: Email server is ready to take messages
+2024-12-19T21:02:29.113Z [INFO]: Email server is ready to take messages
+2024-12-21T10:58:03.886Z [ERROR]: Error connecting to email server: Greeting never received
+2024-12-21T11:04:11.132Z [INFO]: Email server is ready to take messages
+2024-12-21T11:04:26.003Z [INFO]: Email server is ready to take messages
+2024-12-21T11:04:41.937Z [INFO]: Email server is ready to take messages
+2024-12-21T11:08:02.131Z [INFO]: Email server is ready to take messages
+2024-12-21T23:59:55.161Z [INFO]: Email server is ready to take messages
+2024-12-26T11:08:09.031Z [INFO]: Email server is ready to take messages
+2024-12-26T11:33:44.094Z [INFO]: Email server is ready to take messages
+2024-12-26T11:33:55.339Z [INFO]: Email server is ready to take messages
+2024-12-26T11:34:17.234Z [INFO]: Email server is ready to take messages
+2024-12-26T11:34:22.509Z [INFO]: Email server is ready to take messages
+2024-12-27T20:19:02.405Z [INFO]: Email server is ready to take messages
+2024-12-27T20:27:47.522Z [ERROR]: Error sending email to jonylatino87@gmail.com: ENOENT: no such file or directory, open '/Users/johnramos/a/server/templates/passwordReset.hbs'
+2024-12-27T20:27:47.523Z [ERROR]: Error in requestPasswordReset: ENOENT: no such file or directory, open '/Users/johnramos/a/server/templates/passwordReset.hbs'
+2024-12-27T20:35:58.546Z [INFO]: Email sent to jonylatino87@gmail.com with subject "Password Reset Request" using template "passwordReset".
+2024-12-27T20:35:58.547Z [INFO]: Password reset requested for email: jonylatino87@gmail.com
+2024-12-27T20:37:23.240Z [INFO]: Email sent to jonylatino87@gmail.com with subject "Password Reset Successful" using template "passwordResetConfirmation".
+2024-12-27T20:37:23.241Z [INFO]: Password reset successful for email: jonylatino87@gmail.com
+2024-12-30T12:15:36.190Z [INFO]: Email server is ready to take messages
+2024-12-31T10:04:36.723Z [INFO]: Email server is ready to take messages
+2025-01-01T10:11:59.550Z [INFO]: Email server is ready to take messages
+2025-01-01T13:26:19.612Z [INFO]: Email server is ready to take messages
+2025-01-01T23:00:14.970Z [INFO]: Email server is ready to take messages
+2025-01-03T10:54:57.775Z [INFO]: Email server is ready to take messages
