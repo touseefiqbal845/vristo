@@ -11,6 +11,11 @@
     ],
     "routes": [
       {
+        "src": "/api/(.*)",
+        "dest": "index.js"
+      },
+  
+      {
         "src": "/owner/dashboard",
         "dest": "index.js"
       },
