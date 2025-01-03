@@ -11,6 +11,10 @@
   ],
   "rewrites": [
     {
+      "src": "/",
+      "dest": "build/index.html"
+    },
+    {
       "source": "/api/(.*)",
       "destination": "/index.js"
     }
