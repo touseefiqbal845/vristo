@@ -55,3 +55,7 @@ mongoose
     console.error("MongoDB connection error:", error);
     process.exit(1);
   });
+
+app.get("/", (req, res) => {
+  res.json({ status: "success" });
+});
