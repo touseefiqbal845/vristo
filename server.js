@@ -39,7 +39,7 @@ app.use("/api/auth/users", userRoutes);
 app.use("/api/company/data", companyDataRoutes);
 
 // Connect to MongoDB and Start Server
-const PORT = process.env.PORT || 5001;
+const PORT = process.env.PORT || "https://vristo-two.vercel.app/api";
 
 mongoose
   .connect(process.env.MONGO_URI, {
