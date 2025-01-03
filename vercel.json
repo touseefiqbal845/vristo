@@ -15,8 +15,12 @@
       "dest": "build/index.html"
     },
     {
-      "source": "/api/(.*)",
-      "destination": "/index.js"
+      "src": "/api/(.*)",
+      "dest": "/index.js"
+    },
+    {
+      "src": "/(.+)",
+      "dest": "build/$1"
     }
   ]
 }
