@@ -18,7 +18,6 @@ router.get("/verify-email", authController.verifyEmail);
 
 // Protected Routes
 
-// Example of a protected route accessible by owner and admin
 router.get(
   "/protected-route",
   protect,
@@ -53,7 +52,7 @@ router.get(
 router.put(
   "/owner/update-package/:ownerId",
   protect,
-  roleCheck(["owner"]), // Only App Owner can perform this
+  roleCheck(["owner"]), 
   appOwnerController.updatePackage
 );
 

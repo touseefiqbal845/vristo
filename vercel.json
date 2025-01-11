@@ -19,6 +19,46 @@
       "destination": "/index.js"
     },
     {
+      "source": "/owner/dashboard",
+      "destination": "build/index.html"
+    },
+    {
+      "source": "/campaigns/bestcampaigns",
+      "destination": "build/index.html"
+    },
+    {
+      "source": "/campaigns/bestadset",
+      "destination": "build/index.html"
+    },
+    {
+      "source": "/campaigns/bestads",
+      "destination": "build/index.html"
+    },
+    {
+      "source": "/sale/basic-sales",
+      "destination": "build/index.html"
+    },
+    {
+      "source": "/sale/premium-sales",
+      "destination": "build/index.html"
+    },
+    {
+      "source": "/crm/leads",
+      "destination": "build/index.html"
+    },
+    {
+      "source": "/crm/highqualityleads",
+      "destination": "build/index.html"
+    },
+    {
+      "source": "/crm/callsbooked",
+      "destination": "build/index.html"
+    },
+    {
+      "source": "/dashboard",
+      "destination": "build/index.html"
+    },
+    {
       "source": "/(.+)",
       "destination": "build/$1"
     }
